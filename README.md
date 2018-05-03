@@ -1,2 +1,5 @@
 # PyGame
-Just a example with pygame D:
+Prueba de Tabla
+------------------------
+asdsd | asdasd | asdasd|
+------------------------
